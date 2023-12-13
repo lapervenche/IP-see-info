@@ -11,4 +11,11 @@
 	<li>Utile pour tout webmaster qui d&eacute;sirent filtrer par exemples des membres s&#39;incrivant sur un site web en ligne.</li>
 	<li>Cela permet aussi d&#39;&eacute;viter le spam provenant de diverses sources sur le WEB.</li>
 </ul>
-<p>&nbsp;</p>
+<p>En images ce que vous trouverez</p>
+![alt tag](/Documentation/ip1.png)
+
+![alt tag](/Documentation/ip2.png)
+
+![alt tag](/Documentation/ip3.png)
+
+![alt tag](/Documentation/ip4.png)
