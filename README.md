@@ -12,6 +12,7 @@
 	<li>Cela permet aussi d&#39;&eacute;viter le spam provenant de diverses sources sur le WEB.</li>
 </ul>
 <p>En images ce que vous trouverez</p>
+
 ![alt tag](/Documentation/ip1.png)
 
 ![alt tag](/Documentation/ip2.png)
